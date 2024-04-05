@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZE_CONEXX_SAP</ROLLNAME>
+    <DDLANGUAGE>S</DDLANGUAGE>
+    <DOMNAME>ZD_CONEXX_SAP</DOMNAME>
+    <HEADLEN>25</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>20</SCRLEN3>
+    <DDTEXT>Elemento de datos para la conexión a SAP</DDTEXT>
+    <REPTEXT>Conexion con SAP</REPTEXT>
+    <SCRTEXT_S>Conex. SAP</SCRTEXT_S>
+    <SCRTEXT_M>Conexión SAP</SCRTEXT_M>
+    <SCRTEXT_L>Conexion con SAP</SCRTEXT_L>
+    <DTELMASTER>S</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
